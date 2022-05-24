@@ -1,0 +1,359 @@
+body{ 
+    background-color: #bfbee8;
+}
+
+
+.nav {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    position: fixed;
+    z-index: 3;
+    margin-left: 650px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.firstC {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    margin-top: 0px;
+    
+}
+
+
+.img1 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+
+.img2 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+
+}
+
+.img3 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+.img4 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+.img5 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+.img6 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+.img7 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+.img8 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+.img9 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+.img10 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+.img11 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+
+}
+
+.img12 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+
+.img13 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+    
+}
+
+.img14 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+    
+}
+
+.img15 {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 40px;
+    margin-top: 80px;
+    
+}
+
+
+.secondC {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    z-index: 2;
+}
+
+
+.des1 {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des1:hover{
+    opacity: 0;
+}
+
+.des2 {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des2:hover{
+    opacity: 0;
+}
+
+.des3 {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des3:hover{
+    opacity: 0;
+}
+
+.des4 {
+    width: 450px;
+    height: 255px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des4:hover{
+    opacity: 0;
+}
+
+.des5 {
+    width: 450px;
+    height: 255px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des5:hover{
+    opacity: 0;
+}
+
+.des6 {
+    width: 450px;
+    height: 255px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des6:hover{
+    opacity: 0;
+}
+
+.des7 {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des7:hover{
+    opacity: 0;
+}
+
+.des8 {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des8:hover{
+    opacity: 0;
+}
+
+.des9 {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des9:hover{
+    opacity: 0;
+}
+
+.des10 {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des10:hover{
+    opacity: 0;
+}
+
+.des11 {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des11:hover{
+    opacity: 0;
+}
+
+.des12 {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des12:hover{
+    opacity: 0;
+}
+
+.des13 {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des13:hover{
+    opacity: 0;
+}
+
+.des14 {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des14:hover{
+    opacity: 0;
+}
+
+.des15 {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 80px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #353c73;
+    transition: .5s;
+}
+
+.des15:hover{
+    opacity: 0;
+}
+
